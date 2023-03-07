@@ -1,0 +1,10 @@
+5) Layouts (Tip calculator app)
+6) App Navigation (NavHostFragment, back button behavior, options menu, navigation drawer, Android Trivia app)
+7) Lifecycles, Logging (Dessert Clicker app)
+8) App Architecture - UI layer (ViewModel, LiveData, ScrambleWord app)
+9) App Architecture - Persistence (Room, Coroutines, TrackMySleep app)
+10) Advanced RecyclerView
+
+
+ionut.negru@scoalainformala.ro
+[GAD_ANDK_22_02]
